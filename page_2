@@ -1,0 +1,108 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    body{
+        background-image: url(https://media.istockphoto.com/id/941753398/vector/abstract-black-background-geometric-texture.jpg?s=612x612&w=0&k=20&c=uEt45YlzSV1taSdsK15xJElJ8sC3zh_B7f0rinWfB68=);
+    }
+   
+    .task1{
+        color: aliceblue;
+        margin-top: 70px;
+        font-size: 40px;
+        text-indent: 50px;
+        word-spacing: 120px;
+        
+    }
+    a{
+        text-decoration: none;
+        color: aliceblue;
+    }
+   
+    
+    .task3{
+        color: aliceblue;
+        margin: 40px;
+        font-size: 50px;
+       
+    }
+    p{
+        margin-top: 60px;
+        margin-left: 80px;
+        font-size: 40px;
+    }
+    ul,h4{
+        font-size: 40px;
+        margin-left: 80px;
+    }
+   
+
+</style>
+<body>
+    <div class="task1">
+    <tr>
+        <th><a href="home.html">HOME</a></th>
+    </tr>
+    <tr>
+        <th ><a href="second.html">PERSONALDETAILS</a></th>
+    </tr>
+    <tr>
+        <th ><a href="education.html">EDUCATIONS</a></th>
+    </tr>
+    <tr>
+        <th ><a href="project.html">PROJECT</a></th>
+    </tr>
+    </div>
+     <div class="task3">
+        <p>Phone No:6385834162</p>
+        <p>Address:rice mill street brammakundam, sankarpuram tk,
+            Kallakurichi dt,605702.</p>
+         <p>Email id:arunkumararunkumar10790@gmail.com</p>  
+         <p>linkedin:www.linkedin.com/in/arun-kumar-b06692248</p> 
+         <h4>Skils</h4>
+         <ul style="list-style-type: square;">
+            <li>Programming Language</li>
+            <li>HTML</li>
+            <li>JavaScript</li>
+            <li>Flutter</li>
+         </ul>
+         <h4>Area Of Interest</h4>
+         <ul style="list-style-type: square;">
+            <li>Java developer</li>
+            <li>Flutter App development</li>
+            <li>Web development</li>
+         </ul>
+         <h4>Language</h4>
+         <ul style="list-style-type: square;">
+            <li>English</li>
+            <li>Tamil</li>
+         </ul>
+         <h4>CO-CURRICULAR ACTIVITY</h4>
+         <ul style="list-style-type: square;">
+            <li>Industrial Visit:
+                Workshop:
+                Sakthi soyas-2022
+                Inker Robotic Solutions Pvt Ltd-2022
+                </li>
+            <li>Building Web Application Using
+                Java,SpringBoot,Kotlin at Dr.MCET College.</li>
+             <li>Solidity Programming at Dr.MCET College.</li>   
+         </ul>
+         <h4>INTERNSHIP</h4>
+         <ul style="list-style-type: square;">
+            <li>Kaashiv info tech in chennai
+                June    2023
+            </li>
+        
+         </ul>
+
+     </div>
+    
+
+</body>
+</html>
